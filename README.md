@@ -1,5 +1,5 @@
 # cobra-cli 
-cobra cli provides a go program build using [cobra library](https://github.com/spf13/cobra) to add integers or floating numbers from cli
+cobra-cli provides cli commands built using [cobra library](https://github.com/spf13/cobra) to add integers or floating numbers from cli
 
 ## Available commands
 ___
